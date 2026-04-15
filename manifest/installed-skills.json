@@ -1,0 +1,43 @@
+{
+  "codex_home": "C:/Users/seza/.codex/skills",
+  "installed_at": "2026-04-15",
+  "user_skills": [
+    {
+      "name": "doc",
+      "source": "built-in local skill",
+      "status": "installed"
+    },
+    {
+      "name": "pdf",
+      "source": "built-in local skill",
+      "status": "installed"
+    },
+    {
+      "name": "playwright",
+      "source": "https://github.com/openai/skills/tree/main/skills/.curated/playwright",
+      "status": "installed"
+    },
+    {
+      "name": "sora",
+      "source": "built-in local skill",
+      "status": "installed"
+    },
+    {
+      "name": "spreadsheet",
+      "source": "built-in local skill",
+      "status": "installed"
+    }
+  ],
+  "system_skills": [
+    "imagegen",
+    "openai-docs",
+    "plugin-creator",
+    "skill-creator",
+    "skill-installer"
+  ],
+  "planned_skills": [
+    "firecrawl-search",
+    "browserbase-browser",
+    "make-com-outreach"
+  ]
+}
